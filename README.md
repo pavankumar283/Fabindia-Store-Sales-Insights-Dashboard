@@ -1,5 +1,3 @@
-# Fabindia-Store-Sales-Insights-Dashboard
-Excel-based data analytics project analyzing Fabindia’s store sales performance, customer demographics, and online channel key trends.
 
 # 📊 Fabindia 2025 Sales & Performance Dashboard (Excel Analytics Project)
 
