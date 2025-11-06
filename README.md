@@ -64,7 +64,7 @@ By answering these questions, Fabindia can strategically target high-performing 
 * **Target Audience:** Focus marketing campaigns on **women aged 30–49** in **Maharashtra, Karnataka, and Uttar Pradesh**.
 * **Marketing Channels:** Prioritize **Amazon, Flipkart, and Myntra** through promotional offers, ads, and discount coupons.
 * **Retention Strategy:** Launch personalized loyalty programs for frequent female customers in metro cities.
-* **Seasonal Strategy:** Increase ad spend and product launches during high-sales months (Oct–Dec).
+* **Seasonal Strategy:** Increase ads spend and product launches during high-sales months.
 
 ---
 
