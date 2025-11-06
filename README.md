@@ -37,18 +37,6 @@ By answering these questions, Fabindia can strategically target high-performing 
 
 ---
 
-## 📂 Dataset Overview
-
-* **Data Source:** Simulated retail transaction data (Fabindia 2025)
-* **Data Volume:** ~10,000 records
-* **Key Columns:**
-
-  * Order ID, Date, State, Gender, Age Group
-  * Channel (Amazon, Flipkart, Myntra, etc.)
-  * Sales Amount, Order Count, Product Category
-
----
-
 ## 🔍 Analysis Covered
 
 1. Comparison of **Sales vs Orders** (monthly trend)
@@ -109,14 +97,6 @@ This dashboard enables Fabindia to:
 * **Visualize customer behavior and performance metrics in real-time**
 * **Identify target customer segments with high sales potential**
 * **Develop focused marketing strategies** for 2026 growth
-
----
-
-## 📎 Author
-
-**Pawan Kumar Reddy**
-*Data Analytics & IoT Enthusiast | Excel | Power BI | Python | Data Visualization*
-🔗 [GitHub Portfolio](#) | 💼 [LinkedIn](#)
 
 ---
 
