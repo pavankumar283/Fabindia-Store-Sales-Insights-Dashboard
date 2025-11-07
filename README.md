@@ -1,6 +1,7 @@
 
 # 📊 Fabindia 2025 Sales & Performance Dashboard (Excel Analytics Project)
 
+
 ![Fabindia Dashboard Preview](FabIndia_Dashboard.jpg)
 
 ---
